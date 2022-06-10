@@ -14,7 +14,7 @@ if(!isset($_SESSION['d_user'])){
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nav Bar</title>
+    <title>Save Food Save Life</title>
     <script src="https://kit.fontawesome.com/c11d013803.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="style.css">
 </head>
